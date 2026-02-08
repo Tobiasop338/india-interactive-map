@@ -1,0 +1,4 @@
+matplotlib==3.8.2
+numpy==1.24.3
+geopandas==0.14.0
+shapely==2.0.1
